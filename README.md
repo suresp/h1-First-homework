@@ -1,4 +1,4 @@
-# h1-First-homework
+# h1-First week homework
 This was my first time taking the courses regarding the information security and most of the topics were new but during the first lecture and looking at the structure of upcoming weeks I could have the image that it will be interesting reading this course.
 The first lecture was about learning the fundamentals, organizing and knowing the practise environments to be used in this course. The assignments involved in the first week were reading and summarizing the given topic, solving Over The Wire:Bandit, Install Debian, Install Webgoat target and solvetask on webgoat.
 
