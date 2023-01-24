@@ -54,3 +54,11 @@ General: Developer tools
 ![webgoat2](https://user-images.githubusercontent.com/122970395/214181468-68f7c6db-5511-478c-9ae2-98d6456d712b.png)
 
 It was difficult for me but looking at different resources i could find the magic number as first task. using developer tool was familiar to me as i had chance to learn during my previous javascript course.
+
+# sources
+https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
+https://terokarvinen.com/2020/command-line-basics-revisited/
+https://overthewire.org/wargames/bandit/
+https://terokarvinen.com/2021/install-debian-on-virtualbox/
+https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/
+
