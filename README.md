@@ -48,6 +48,7 @@ Installing webgoat was performed according to the material provided and it requi
  General: HTTP Basics
  
 General: Developer tools
+![webgoatfirst](https://user-images.githubusercontent.com/122970395/214187891-aab9fa2d-f54d-478b-a3df-92855b21df43.png)
 
    ![webgoat1](https://user-images.githubusercontent.com/122970395/214181422-1b591fba-8eee-4506-af14-fb971ff5a50d.png)
    
